@@ -1,0 +1,21 @@
+.jumbotron{
+    background-color:black;
+}
+
+.header-content{
+    color: white;
+}
+form{
+    min-height: 400px;
+}
+.footer-content{
+    background-color:gainsboro;
+}
+.navbar-light{
+    
+ background-color: whitesmoke;   
+}
+.header-content{
+    padding: 20px 0px;
+}
+

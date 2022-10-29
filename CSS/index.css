@@ -1,0 +1,50 @@
+
+header{
+    background: url("../img/back1.jpeg") no-repeat center center; 
+
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    min-height: 380px;
+}
+.carousel{
+    
+    background: rgb(77, 233, 238);
+}
+.carousel-item{
+    height: 245px;
+
+
+}
+.carousel-item img{
+    position: absolute;
+    top:0;
+    left:0;
+    min-height:245px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+.row-content{
+    padding-top:75px;
+    
+}
+header h1{
+    margin-top: 120px;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    
+    position: absolute ;
+    margin-left: 6%;
+    top: 0;
+    left: 0;
+  }
+  nav{
+    min-height: 20px;
+  }
